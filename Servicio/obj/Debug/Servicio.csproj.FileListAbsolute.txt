@@ -1,0 +1,22 @@
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Servicio\bin\Debug\Servicio.dll
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Servicio\bin\Debug\Servicio.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Servicio\bin\Debug\Datos.dll
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Servicio\bin\Debug\Entidad.dll
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Servicio\bin\Debug\Datos.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Servicio\bin\Debug\Entidad.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Servicio\obj\Debug\Servicio.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Servicio\obj\Debug\Servicio.dll
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Servicio\obj\Debug\Servicio.pdb
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Servicio\bin\Debug\Servicio.dll
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Servicio\bin\Debug\Servicio.pdb
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Servicio\bin\Debug\Datos.dll
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Servicio\bin\Debug\Entidad.dll
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Servicio\bin\Debug\Datos.pdb
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Servicio\bin\Debug\Entidad.pdb
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Servicio\obj\Debug\Servicio.csproj.AssemblyReference.cache
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Servicio\obj\Debug\Servicio.csproj.Up2Date
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Servicio\obj\Debug\Servicio.dll
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Servicio\obj\Debug\Servicio.pdb

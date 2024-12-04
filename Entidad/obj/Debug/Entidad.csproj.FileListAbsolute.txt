@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Entidad\bin\Debug\Entidad.dll
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Entidad\bin\Debug\Entidad.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Entidad\obj\Debug\Entidad.dll
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Entidad\bin\Debug\Entidad.dll
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Entidad\obj\Debug\Entidad.dll
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Entidad\obj\Debug\Entidad.pdb

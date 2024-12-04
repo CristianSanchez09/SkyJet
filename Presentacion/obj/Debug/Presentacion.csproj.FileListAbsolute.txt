@@ -1,0 +1,54 @@
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Home.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.MostrarPasajeros.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.MostrarVuelos.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Datos.dll
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Datos.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Entidad.dll
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Servicio.dll
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Servicio.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.GuardarVuelo.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.GuardarPasajero.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.TicketUI.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.reserva.CancelacionUI.resources
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\bin\Debug\Entidad.dll
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\bin\Debug\Servicio.dll
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\bin\Debug\Datos.dll
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\bin\Debug\Servicio.pdb
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Home.resources
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.GuardarPasajero.resources
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.reserva.CancelacionUI.resources
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.TicketUI.resources
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.MostrarPasajeros.resources
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.MostrarVuelos.resources
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.GuardarVuelo.resources
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Cristian Sanchez\Desktop\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.pdb
